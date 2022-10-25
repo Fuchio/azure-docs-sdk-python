@@ -8,7 +8,7 @@ ms.topic: reference
 ms.devlang: python
 ms.service: cognitivelanguage
 ---
-# Azure Cognitive Language Service Question Answering client library for Python - version 1.1.1a20221025001 
+# Azure Cognitive Language Service Question Answering client library for Python - version 1.1.1a20221024001 
 
 
 Question Answering is a cloud-based API service that lets you create a conversational question-and-answer layer over your existing data. Use it to build a knowledge base by extracting questions and answers from your semi-structured content, including FAQ, manuals, and documents. Answer users’ questions with the best answers from the QnAs in your knowledge base—automatically. Your knowledge base gets smarter, too, as it continually learns from users' behavior.
