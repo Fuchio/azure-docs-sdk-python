@@ -1,12 +1,12 @@
 ---
-ms.data: 10/25/2022
-author: lmazuel
-ms.author: lmazuel
-ms.topic: reference
-description: Reference for Azure Load Testing SDK for Python
 title: Azure Load Testing SDK for Python
-ms.service: loadtesting
+ms.topic: reference
 ms.devlang: python
+ms.author: lmazuel
+author: lmazuel
+ms.service: loadtesting
+description: Reference for Azure Load Testing SDK for Python
+ms.data: 10/26/2022
 ---
 # Azure Load Testing SDK for Python - latest
 

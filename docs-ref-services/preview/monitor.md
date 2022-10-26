@@ -1,12 +1,12 @@
 ---
-ms.data: 10/25/2022
-author: lmazuel
-ms.author: lmazuel
-ms.topic: reference
-description: Reference for Azure Monitor SDK for Python
 title: Azure Monitor SDK for Python
-ms.service: monitor
+ms.topic: reference
 ms.devlang: python
+ms.author: lmazuel
+author: lmazuel
+ms.service: monitor
+description: Reference for Azure Monitor SDK for Python
+ms.data: 10/26/2022
 ---
 # Azure Monitor SDK for Python - preview
 
