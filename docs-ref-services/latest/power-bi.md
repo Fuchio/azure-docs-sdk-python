@@ -1,12 +1,12 @@
 ---
+author: lmazuel
+ms.data: 10/27/2022
+title: Azure Power BI SDK for Python
+ms.topic: reference
+description: Reference for Azure Power BI SDK for Python
 ms.service: powerbi
 ms.author: lmazuel
 ms.devlang: python
-ms.topic: reference
-description: Reference for Azure Power BI SDK for Python
-ms.data: 10/26/2022
-title: Azure Power BI SDK for Python
-author: lmazuel
 ms.date: 08/24/2022
 ---
 # Azure PowerBI libraries for python
