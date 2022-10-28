@@ -1,12 +1,12 @@
 ---
+ms.topic: reference
+ms.service: machinelearning
 title: Azure Machine Learning SDK for Python
 ms.devlang: python
+ms.data: 10/28/2022
 author: lmazuel
-ms.service: machinelearning
-ms.author: lmazuel
-ms.data: 10/27/2022
 description: Reference for Azure Machine Learning SDK for Python
-ms.topic: reference
+ms.author: lmazuel
 ---
 # Azure Machine Learning SDK for Python - preview
 

@@ -1,12 +1,12 @@
 ---
+ms.topic: reference
+ms.service: baremetal
 title: Azure Bare Metal SDK for Python
 ms.devlang: python
+ms.data: 10/28/2022
 author: lmazuel
-ms.service: baremetal
-ms.author: lmazuel
-ms.data: 10/27/2022
 description: Reference for Azure Bare Metal SDK for Python
-ms.topic: reference
+ms.author: lmazuel
 ---
 # Azure Bare Metal SDK for Python - latest
 
