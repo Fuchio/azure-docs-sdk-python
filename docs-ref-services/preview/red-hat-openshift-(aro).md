@@ -1,12 +1,12 @@
 ---
-ms.service: redhatopenshift(aro)
-author: lmazuel
-ms.devlang: python
-ms.author: lmazuel
-ms.topic: reference
-title: Azure Red Hat OpenShift (ARO) SDK for Python
 description: Reference for Azure Red Hat OpenShift (ARO) SDK for Python
-ms.data: 10/28/2022
+ms.devlang: python
+title: Azure Red Hat OpenShift (ARO) SDK for Python
+ms.topic: reference
+ms.author: lmazuel
+ms.service: redhatopenshift(aro)
+ms.data: 10/31/2022
+author: lmazuel
 ---
 # Azure Red Hat OpenShift (ARO) SDK for Python - preview
 

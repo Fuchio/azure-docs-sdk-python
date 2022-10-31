@@ -1,12 +1,12 @@
 ---
-ms.service: dataprotection
-author: lmazuel
-ms.devlang: python
-ms.author: lmazuel
-ms.topic: reference
-title: Azure Data Protection SDK for Python
 description: Reference for Azure Data Protection SDK for Python
-ms.data: 10/28/2022
+ms.devlang: python
+title: Azure Data Protection SDK for Python
+ms.topic: reference
+ms.author: lmazuel
+ms.service: dataprotection
+ms.data: 10/31/2022
+author: lmazuel
 ---
 # Azure Data Protection SDK for Python - preview
 

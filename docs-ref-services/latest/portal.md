@@ -1,12 +1,12 @@
 ---
-ms.service: portal
-author: lmazuel
-ms.devlang: python
-ms.author: lmazuel
-ms.topic: reference
-title: Azure Portal SDK for Python
 description: Reference for Azure Portal SDK for Python
-ms.data: 10/28/2022
+ms.devlang: python
+title: Azure Portal SDK for Python
+ms.topic: reference
+ms.author: lmazuel
+ms.service: portal
+ms.data: 10/31/2022
+author: lmazuel
 ---
 # Azure Portal SDK for Python - latest
 
